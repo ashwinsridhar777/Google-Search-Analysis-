@@ -1,6 +1,6 @@
 # Google Trends Data Analysis Project
 
-This project is focused on analyzing Google Trends data for any given keyword("Concert" being used here. The project involves fetching, processing, and visualizing data related to the popularity of the keyword over time and across different regions using the `pytrends` library.
+This project is focused on analyzing Google Trends data for any given keyword("Concert" being used here). The project involves fetching, processing, and visualizing data related to the popularity of the keyword over time and across different regions using the `pytrends` library.
 
 ## Project Structure
 
